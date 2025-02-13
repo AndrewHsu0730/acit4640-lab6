@@ -1,5 +1,5 @@
 # 4640-w6-lab-start-w25
 
-Screenshot:
+### Screenshot:
 
 ![image](./screenshot.png)
